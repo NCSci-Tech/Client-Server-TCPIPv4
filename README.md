@@ -1,7 +1,5 @@
 TCP Server-Client Communication
 
-Overview
-
 This project consists of a simple TCP server and client written in C++. The server listens for incoming client connections, receives a message, and responds with a user-inputted response. The client connects to the server, sends a message, and displays the response received.
 
 Server:
